@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primer Post</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="../index.html">← Volver al Blog</a></h1>
+    </header>
+    
+    <main>
+        <article>
+            <h2>Mi Primer Post</h2>
+            <p class="date">15 de Junio, 2026</p>
+            
+            <p>Aquí va tu contenido. Puedes escribir lo que quieras.</p>
+            <p>Este es tu segundo párrafo, etc.</p>
+        </article>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 Artur</p>
+    </footer>
+</body>
+</html>
